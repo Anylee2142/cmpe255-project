@@ -11,3 +11,4 @@ matplotlib==3.0.2
 pyyaml
 ipykernel
 jupyterlab
+tqdm
