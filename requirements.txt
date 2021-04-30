@@ -12,3 +12,5 @@ pyyaml
 ipykernel
 jupyterlab
 tqdm
+xgboost
+lightgbm
