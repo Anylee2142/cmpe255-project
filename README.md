@@ -6,3 +6,5 @@
 5. ipython kernel install --user --name=cmpe255-project
 6. jupyter lab
 7. Choose the cmpe255-project kernel
+
+# [Link](https://colab.research.google.com/drive/1ehtzrOuon1Zdz2yhSzHIggtBkyITQxxB?authuser=2#scrollTo=3WsvBuI_R6sN) to Google Colab
